@@ -5,4 +5,5 @@ This game was made for testing **Love2d** framework, it is still unstable and bu
 
 ### Also
 *Sidewalk* texture downloaded from [texturelib.com](http://texturelib.com)
+
 Images and graphics made with [Gimp](http://www.gimp.org/)
