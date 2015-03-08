@@ -54,8 +54,7 @@ function love.load(arg)
 
   poopAssets = {
     love.graphics.newImage('assets/shit-1.png'),
-    love.graphics.newImage('assets/shit-2.png'),
-    love.graphics.newImage('assets/jumped.png')
+    love.graphics.newImage('assets/shit-2.png')
   }
 
   player.anim.jumped = love.graphics.newImage("assets/jumped.png");
